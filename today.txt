@@ -1,0 +1,5 @@
+Welcome to DevOps course
+GitHub
+Gitlab
+Git
+Linux
